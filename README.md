@@ -22,7 +22,7 @@
 
 <br/>
 
-![Nova Browser Screenshot](https://via.placeholder.com/800x480/0f0f13/6c63ff?text=Nova+Browser+—+Screenshot)
+![Nova Browser Screenshot](https://raw.githubusercontent.com/Mr-Farooqi/NovaBrowser/refs/heads/main/img/screenshot-home.png)
 
 <br/>
 
@@ -136,7 +136,7 @@ The `NovaBrowser` class extends `QMainWindow` and wires together:
 
 | Home Page | Browsing |
 |---|---|
-| ![Home](https://via.placeholder.com/380x240/0f0f13/6c63ff?text=Home+Page) | ![Browser](https://via.placeholder.com/380x240/0f0f13/a78bfa?text=Browsing) |
+| ![Home](https://raw.githubusercontent.com/Mr-Farooqi/NovaBrowser/refs/heads/main/img/screenshot-home.png) | ![Browser](https://raw.githubusercontent.com/Mr-Farooqi/NovaBrowser/refs/heads/main/img/screenshot-browse.png) |
 
 </div>
 
